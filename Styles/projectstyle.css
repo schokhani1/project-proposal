@@ -1,0 +1,56 @@
+table, td {
+    border: lightgray solid 1px;
+    font-family: Arial, sans-serif;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+  }
+  
+  caption {
+    font-size: 40px;
+    margin: 10px auto;
+  }
+  
+  .class1 {
+    width: 15%;
+    font-weight: 600;
+  }
+  
+  .class2 {
+    width: 30%;
+  }
+  
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+  
+  .classproductname{
+    width: 30%;
+    font-size: 15px;
+  }
+  
+  .classprice{
+    width: 10%;
+  }
+  
+  .classlink{
+    width: 10%;
+  }
+  
+  tr {
+    height: 50px;
+  }
+  
+  .classnewprice{
+    color: red;
+    font-weight: 600;
+    font-size: 20px;
+  }
